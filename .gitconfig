@@ -1,0 +1,6 @@
+[safe]
+	directory = *
+	directory = /opt/airflow/data_management
+	directory = /home/ubuntu/data-management-assignment/data_management
+	directory = /opt/***/data_management
+	directory = ./data_management
